@@ -20,10 +20,6 @@ https://m.do.co/c/0fb522deafa4
 ```
 ###### خرید سرور از سایت ایرانی : 
 ```
-https://berbidserver.com/portal/aff.php?aff=53
-```
-###### خرید سرور از سایت ایرانی : 
-```
 https://dashboard.azaronline.com/order/?aff=790
 ```
 
